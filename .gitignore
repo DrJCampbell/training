@@ -1,3 +1,4 @@
 *.pdf
 *.bam
-*.bai
+*.bai/
+renv/*
