@@ -1,4 +1,7 @@
+.Rhistory
+training.Rproj
 *.pdf
 *.bam
 *.bai/
 renv/*
+.Rproj.user
