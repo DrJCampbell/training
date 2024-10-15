@@ -1,3 +1,6 @@
+
+lucy is back again
+
 lucy was here
 
 echo James was here - Ha!
