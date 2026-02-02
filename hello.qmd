@@ -3,11 +3,15 @@ title: "test"
 format: html
 ---
 
+```{r} 
+plot(rnorm(1000))
+```
 
 
 ```{r}
-plot(rnorm(1000))
+barplot(runif(10))
 ```
+
 
 
 
