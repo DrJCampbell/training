@@ -8,6 +8,6 @@ james.campbell@crick.ac.uk
 - item 1
 - item 2
 
-![Figure odd](figures/odd.png)
+![Figure odd](figures/odd.png){width=20%}
 
 
